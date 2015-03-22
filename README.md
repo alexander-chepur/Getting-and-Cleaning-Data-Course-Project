@@ -14,5 +14,6 @@ R script called run_analysis.R is used to prepare tidy data for future analysis.
 
 5. Creates a second, independent tidy data set (tidy.txt) with the average of each variable for each activity and each subject.
 
-## Note
+Note
+-------
 Script uses data located in "UCI HAR Dataset" subdirectory in script working directory.
